@@ -22,7 +22,5 @@
 <img align="center" alt="Brian-rt" height="40" width="70"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
   
-
-     
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianbasualdot)](https://github.com/brianbasualdot/github-readme-stats)
 
