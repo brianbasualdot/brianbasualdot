@@ -21,5 +21,7 @@
 <img align="center" alt="Brian-py" height="40" width="70" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img align="center" alt="Brian-rt" height="40" width="70"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
+<div> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianbasualdot&show_icons=true&theme=tokyonight)  
+</div>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianbasualdot&show_icons=true&theme=tokyonight)
