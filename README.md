@@ -25,7 +25,7 @@
 ##
 
 <div> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianbasualdot&hide_progress=true)](https://github.com/brianbasualdot/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianbasualdot&show_icons=true&theme=cobalt)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianbasualdot&hide_progress=true)](https://github.com/brianbasualdot/github-readme-stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brianbasualdot&show_icons=true&theme=cobalt"/>
 </div>
 
