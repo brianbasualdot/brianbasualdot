@@ -32,3 +32,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianbasualdot&layout=compact=true&theme=cobalt"/>
 </div>
 
+![Snake animation](https://github.com/brianbasualdot/brianbasualdot/blob/output/github-contribution-grid-snake.svg)
