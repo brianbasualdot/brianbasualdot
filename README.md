@@ -1,6 +1,5 @@
 <div align="center">
   <h1 align="center"> Hola! Soy Brian Basualdo Torres 👋</h1>
-
   <img src="https://www.canva.com/design/DAFixe4OFns/diPu5_H0-WtQW5UTWBnvsQ/edit?utm_content=DAFixe4OFns&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 </div>
 
