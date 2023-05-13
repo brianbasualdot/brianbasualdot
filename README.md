@@ -15,16 +15,16 @@
 <h2 dir="auto" class="anchor">Tecnologias Front-end</h2>
 <div >
 <p align="center" dir="auto">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,javascript,boostrap,react" />
+  <a href="https://skillicons.dev" class="anchor">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react" />
   </a>
 </p>
 </div>
 <h2 dir="auto" class="anchor">Tecnologias Back-end</h2>
 <div>
 <p align="center" dir="auto">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,nodejs,express,mongodb,mysql,java,hibernate,maven,spring" />
+  <a href="https://skillicons.dev" class="anchor">
+    <img src="https://skillicons.dev/icons?i=py,nodejs,express,mongodb,mysql,java,maven,hibernate,git,spring"/>
   </a>
 </p>
 </div>
