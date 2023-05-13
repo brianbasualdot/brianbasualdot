@@ -13,12 +13,12 @@
 <br>
 <h2 dir="auto" class="anchor">Tecnologias Front-end</h2>
 <div >
-<p align="center" dir="auto">
+<p align="left" dir="auto">
   <a href="https://skillicons.dev" class="anchor">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react" />
   </a>
-  <img alignt="right" src="https://i.postimg.cc/7hMgRt69/catdev.gif">
 </p>
+<img alignt="right" src="https://i.postimg.cc/7hMgRt69/catdev.gif">
 </div>
 <h2 dir="auto" class="anchor">Tecnologias Back-end</h2>
 <div>
