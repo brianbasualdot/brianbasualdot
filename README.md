@@ -5,11 +5,10 @@
 
 <div>
 <a href="https://www.linkedin.com/in/brianbasualdot" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:brianbasualdot@gmail.com"></a>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
+<a href="mailto:brianbasualdot@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a> 
 </div>
-
-##
 <hr></hr>
 <br>
 <h2 dir="auto" class="anchor">Tecnologias Front-end</h2>
@@ -18,6 +17,7 @@
   <a href="https://skillicons.dev" class="anchor">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react" />
   </a>
+  <img alignt="right" src="https://i.postimg.cc/7hMgRt69/catdev.gif">
 </p>
 </div>
 <h2 dir="auto" class="anchor">Tecnologias Back-end</h2>
@@ -28,8 +28,6 @@
   </a>
 </p>
 </div>
-
-##
 <hr></hr>
 <br>
 <div> 
