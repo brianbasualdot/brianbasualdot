@@ -3,12 +3,6 @@
   <img src="https://i.postimg.cc/MTsWg9Ww/Formas-Coloridas-Encabezado-Banner.png">
 </div>
 
-<div>
-<a href="https://www.linkedin.com/in/brianbasualdot" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:brianbasualdot@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a> 
-</div>
 <hr></hr>
 <br>
 <h2 dir="auto" class="anchor">Tecnologias Front-end</h2>
