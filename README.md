@@ -9,7 +9,7 @@
 <div >
 <p align="left" dir="auto">
   <a href="https://skillicons.dev" class="anchor">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react"/>
   </a>
 </p>
 </div>
@@ -17,7 +17,7 @@
 <div>
 <p align="left" dir="auto">
   <a href="https://skillicons.dev" class="anchor">
-    <img src="https://skillicons.dev/icons?i=py,mysql,java,hibernate,maven,spring,git"/>
+    <img src="https://skillicons.dev/icons?i=py,java,hibernate,maven,mysql,spring,git"/>
   </a>
 </p>
 </div>
