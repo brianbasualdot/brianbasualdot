@@ -17,7 +17,7 @@
 <div>
 <p align="left" dir="auto">
   <a href="https://skillicons.dev" class="anchor">
-    <img src="https://skillicons.dev/icons?i=py,mysql,java,maven,hibernate,spring,git-"/>
+    <img src="https://skillicons.dev/icons?i=py,mysql,java,hibernate,maven,spring,git"/>
   </a>
 </p>
 </div>
