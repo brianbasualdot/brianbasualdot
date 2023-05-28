@@ -3,7 +3,6 @@
   <img src="https://i.postimg.cc/MTsWg9Ww/Formas-Coloridas-Encabezado-Banner.png">
 </div>
 <hr></hr>
-<br>
 <h2 dir="auto" class="anchor">Tecnologias Front-end</h2>
 <div >
 <p align="left" dir="auto">
