@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> ***Hola! Soy Brian Basualdo Torres*** 👋</h1>
+  <h1> Hola! Soy Brian Basualdo Torres 👋</h1>
   <img src="https://i.postimg.cc/MTsWg9Ww/Formas-Coloridas-Encabezado-Banner.png">
 </div>
 <hr></hr>
