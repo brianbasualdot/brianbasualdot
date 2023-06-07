@@ -22,5 +22,6 @@
 <hr></hr>
 <br>
 <div>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=brianbasualdot&theme=cobalt"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianbasualdot&layout=donut-vertical&theme=cobalt"/> 
 </div>
