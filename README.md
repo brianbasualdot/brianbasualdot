@@ -21,6 +21,7 @@
 </div>
 <hr></hr>
 <br>
-<div> 
+<div>
+[!Brian wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brianbasualdot)](https://github.com/brianbasualdot/github-readme-stats)  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianbasualdot&layout=compact&theme=cobalt"/>
 </div>
