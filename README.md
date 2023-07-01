@@ -22,6 +22,6 @@
 <hr></hr>
 <br>
 <div>
-<img height="200em" width="200em" src="https://github-readme-stats.vercel.app/api?username=brianbasualdot&hide=contribs,prs&theme=transparent">
-<img height="200em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianbasualdot&layout=compact&theme=transparent"/> 
+<img height="200em"  src="https://github-readme-stats.vercel.app/api?username=brianbasualdot&hide=contribs,prs&theme=transparent">
+<img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianbasualdot&layout=compact&theme=transparent"/> 
 </div>
