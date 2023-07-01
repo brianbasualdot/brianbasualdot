@@ -23,5 +23,5 @@
 <br>
 <div>
 <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=brianbasualdot&hide=contribs,prs&theme=transparent">
-<img height="1700em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianbasualdot&layout=compact&theme=transparent"/> 
+<img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianbasualdot&layout=compact&theme=transparent"/> 
 </div>
