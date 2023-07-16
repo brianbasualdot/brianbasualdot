@@ -18,6 +18,8 @@
     <img src="https://skillicons.dev/icons?i=py,django,flask,fastapi,express,nodejs,mysql,java,postman,git"/>
   </a>
 </p>
-  <img src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={brianbasualdot}&theme={transparent}" />
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={brianbasualdot}&theme={transparent}" />
+</div>
 </div>
 
