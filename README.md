@@ -19,7 +19,7 @@
   </a>
 </p>
 <div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={brianbasualdot}&theme={transparent}" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={brianbasualdot}&theme={nord_bright}"/>
 </div>
 </div>
 
