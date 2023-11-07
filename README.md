@@ -7,7 +7,7 @@
 <div >
 <p align="left" dir="auto">
   <a href="https://skillicons.dev" class="anchor">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
   </a>
 </p>
 </div>
@@ -19,4 +19,3 @@
   </a>
 </p>
 </div>
-
