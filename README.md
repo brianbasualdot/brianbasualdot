@@ -1,21 +1,18 @@
-<div align="center">
-  <h1> Hola! Soy Brian Basualdo Torres 👋</h1>
-  <img src="https://i.postimg.cc/MTsWg9Ww/Formas-Coloridas-Encabezado-Banner.png">
-</div>
-<hr></hr>
-<h2 dir="auto" class="anchor">Tecnologias Frontend</h2>
-<div >
-<p align="left" dir="auto">
-  <a href="https://skillicons.dev" class="anchor">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap"/>
-  </a>
-</p>
-</div>
-<h2 dir="auto" class="anchor">Tecnologias Backend</h2>
-<div>
-<p align="left" dir="auto">
-  <a href="https://skillicons.dev" class="anchor">
-    <img src="https://skillicons.dev/icons?i=py,mysql,postgresql,java,spring,hibernate,maven,graphql,git"/>
-  </a>
-</p>
-</div>
+# 💫 About Me:
+My name is Brian and I am a fullstack programmer. I am an enthusiastic and motivated professional with a solid programming background. I specialize in backend and frontend software development, and have experience in a variety of technologies, including Javascript, Python, SQL, Git, etc. 
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brianbasualdot) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=brianbasualdot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=brianbasualdot&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brianbasualdot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=brianbasualdot&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
