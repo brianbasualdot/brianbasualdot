@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Brian and I am a fullstack programmer. I am an enthusiastic and motivated professional with a solid programming background. I specialize in backend and frontend software development, and have experience in a variety of technologies, including Javascript, Python, SQL, Git, etc. 
+My name is Brian and I am a fullstack programmer. I am an enthusiastic and motivated professional with a solid programming background. I specialize in backend software development, and have experience in a variety of technologies, including Javascript, Python, SQL, Git, etc. 
 
 
 ## 🌐 Socials:
