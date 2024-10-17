@@ -1,7 +1,7 @@
 # 💫 About Me:
 My name is Brian and I am a Developer. I am an enthusiastic and motivated professional with a solid programming background. I specialize in backend software development, and have experience in a variety of technologies, including Javascript, Python, SQL, Git, etc. 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brianbasualdot) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brianbasualdot) 
 [![Google](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianbasualdot@gmail.com).
 
 
